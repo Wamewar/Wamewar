@@ -15,4 +15,4 @@
 - 📫 Мои контакты.
 Email — no-code.develop@gleb-f.ru
 Telegram — t.me/digital_gleb
-Vk — vk.com/digital.gleb
+Vk — vk.com/digital.gleb 
