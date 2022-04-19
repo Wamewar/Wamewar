@@ -13,6 +13,6 @@
 за прикольные решения и фишки, которые были придуманы или найдены на просторах инета :)
 
 - 📫 Мои контакты.
-Email — no-code.develop@gleb-f.ru
-Telegram — t.me/digital_gleb
-Vk — vk.com/digital.gleb 
+- Email — no-code.develop@gleb-f.ru
+- Telegram — t.me/digital_gleb
+- Vk — vk.com/digital.gleb 
